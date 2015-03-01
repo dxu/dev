@@ -1,0 +1,3 @@
+[submodule "canvas"]
+	path = canvas
+	url = git@github.com:dxu/canvas.git
