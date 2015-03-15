@@ -1,0 +1,6 @@
+[submodule "sketch"]
+	path = sketch
+	url = git@github.com:dxu/sketch.git
+[submodule "f18.js"]
+	path = f18.js
+	url = git@github.com:dxu/f18.js.git
